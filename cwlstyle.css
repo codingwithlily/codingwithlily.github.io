@@ -1,0 +1,25 @@
+.themed-grid-col {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(93, 206, 255, .15);
+  border: 1px solid rgba(93, 206, 255, .2);
+}
+
+.themed-grid-col-title {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(126, 209, 212, .15);
+  border: 1px solid rgba(126, 209, 212, .2);
+}
+
+.themed-container {
+  padding: 15px;
+  margin-bottom: 30px;
+  background-color: rgba(129, 0, 144, 1.0);
+  border: 1px solid rgba(129, 0, 144, .2);
+}
+.table-lavendar {
+    
+  background-color: rgba(129, 0, 154, .50);
+  border: 1px solid rgba(129, 0, 144, .2);
+}
