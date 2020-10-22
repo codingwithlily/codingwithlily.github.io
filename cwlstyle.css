@@ -26,3 +26,5 @@
 
 .bg-lotus{background-color:#c985e9;}
 .bg-plum{background-color:rgba(129, 0, 144, 1.0);}
+
+.bg-image{background-image:url("img/bg_poppies.jpg"); background-repeat: no-repeat;background-size: cover;}
