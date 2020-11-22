@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Lily Tsai">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Coding With Lily</title>
+
+    <!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="cwlstyle.css" rel="stylesheet">
+  </head>
+  <body>
+      <nav class="navbar navbar-expand-lg navbar-dark themed-container">
+        <div class="container-xl">
+          <a class="navbar-brand" href="index.html">Coding With Lily</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07XL" aria-controls="navbarsExample07XL" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+            <div class="collapse navbar-collapse" id="navbarsExample07XL">
+              <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="schedule.html">Schedule</a>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdown07XL" data-toggle="dropdown" aria-expanded="false">Lessons</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown07XL">
+                    <a class="dropdown-item" href="lesson1.html">Lesson 1</a>
+                    <a class="dropdown-item" href="lesson2.html">Lesson 2</a>
+                    <a class="dropdown-item" href="lesson3.html">Lesson 3</a>
+                    <a class="dropdown-item" href="lesson4.html">Lesson 4</a>
+                    <a class="dropdown-item" href="lesson5.html">Lesson 5</a>
+                    <a class="dropdown-item" href="lesson6.html">Lesson 6</a>
+                </div>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      </nav>
+      
+<div class="container">
+    <main role="main">
+      <div class="jumbotron bg-light text-dark">
+        <div class="col-sm-12 mx-auto ">
+  <h1>Projects</h1>
+  <p>This website, content, and videos are created as part of Lily's research project on the effectiveness of a girl-centric, project-based Computer Science curriculum using Scratch on encouraging 3rd - 5th grade girls' participation in computing.
+  </p>
+  <p>Below are some of the projects created by participants who would like to share their projects.</p>  </p>
+ 
+  
+
+
+  <h2 class="mt-4">Participant Projects</h2>
+
+   
+    <table class="table table-bordered table-striped">
+      <thead>
+        <tr class="table-lavendar table-striped">
+          <th>Date</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>*username
+            </td>
+            <td>*grade</td>
+          <td><p>*project description</p><p>*link to project/p></td>
+        </tr>
+        <tr>
+            <td>*username
+            </td>
+            <td>*grade</td>
+          <td><p>*project description</p><p>*link to project/p></td>
+        </tr>
+        <tr>
+            <td>*username
+            </td>
+            <td>*grade</td>
+          <td><p>*project description</p><p>*link to project/p></td>
+        </tr>      
+    </tbody>
+  </table>
+</div>
+
+
+
+
+
+      
+      
+<hr class="my-4">
+
+<div class="container text-center" id="containers">
+</div>
+
+ 
+
+      </div>
+    </div>
+  </main>
+
+
+
+  <footer class="mastfoot mt-auto">
+    <div class="inner text-center">
+        <p>Made with <img src="img/heart.png" width="25"> in 2020.</p>
+    </div>
+  </footer>
+</div>
+</body>
+</html>
